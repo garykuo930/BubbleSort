@@ -1,0 +1,7 @@
+D:\Csharp_startup\Exercise\Week 2\HW\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe.config
+D:\Csharp_startup\Exercise\Week 2\HW\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe
+D:\Csharp_startup\Exercise\Week 2\HW\BubbleSort\BubbleSort\bin\Debug\BubbleSort.pdb
+D:\Csharp_startup\Exercise\Week 2\HW\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csprojAssemblyReference.cache
+D:\Csharp_startup\Exercise\Week 2\HW\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+D:\Csharp_startup\Exercise\Week 2\HW\BubbleSort\BubbleSort\obj\Debug\BubbleSort.exe
+D:\Csharp_startup\Exercise\Week 2\HW\BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb
